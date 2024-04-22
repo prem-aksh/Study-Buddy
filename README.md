@@ -16,10 +16,9 @@
         </ul>
 <h2>Screenshots</h2>
         <p>Below are some screenshots of the Study Buddy project:</p>
-        <div>
-            <!-- Add your screenshots here -->
-[/Picture6.png](https://github.com/prem-aksh/Study-Buddy/blob/main/images/Picture1.png?raw=true)
-            ![image](https://github.com/prem-aksh/Study-Buddy/assets/110052269/a18a866c-20f2-46e2-bcac-955e0366d523)
+<div>
+<!-- Add your screenshots here -->
+![image](https://github.com/prem-aksh/Study-Buddy/assets/110052269/27598b6b-fc1a-40e9-8b5d-6c13dfbb297b)
 <!-- Add more screenshots as needed -->
         </div>
 <h2>Contact</h2>
