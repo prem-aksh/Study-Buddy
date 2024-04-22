@@ -19,7 +19,8 @@
         <div>
             <!-- Add your screenshots here -->
 [/Picture6.png](https://github.com/prem-aksh/Study-Buddy/blob/main/images/Picture1.png?raw=true)
-            <!-- Add more screenshots as needed -->
+            ![image](https://github.com/prem-aksh/Study-Buddy/assets/110052269/a18a866c-20f2-46e2-bcac-955e0366d523)
+<!-- Add more screenshots as needed -->
         </div>
 <h2>Contact</h2>
         <p>If you have any questions or suggestions regarding Study Buddy, feel free to leave me a message at my <a href="www.linkedin.com/in/prem-kumar-123048243">Linkedin</a>.</p>
