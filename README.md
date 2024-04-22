@@ -14,29 +14,15 @@
             <li><strong>Quiz:</strong> Interactive quizzes designed with JavaScript to enable students to test their knowledge and engage in friendly competition.</li>
             <li><strong>Discussion Forum:</strong> A platform built using PHP, HTML, and Bootstrap where students can post questions, collaborate on academic research, and connect with peers sharing similar interests.</li>
         </ul>
-<h2>Get Started</h2>
-        <p>To contribute to the Study Buddy project or set it up locally, follow the steps below:</p>
-        <ol>
-            <li>Clone the repository: <code>git clone https://github.com/your-username/study-buddy.git</code></li>
-            <li>Navigate to the project directory: <code>cd study-buddy</code></li>
-            <li>Install dependencies (if any)</li>
-            <li>Start the local server</li>
-            <li>Explore and contribute!</li>
-        </ol>
-<h2>Contribution Guidelines</h2>
-        <p>We welcome contributions from the community to enhance Study Buddy. Please follow these guidelines when contributing:</p>
-        <ul>
-            <li>Fork the repository</li>
-            <li>Create a new branch for your feature or bug fix</li>
-            <li>Ensure your code follows the project's coding style</li>
-            <li>Submit a pull request</li>
-            <li>Wait for code review and approval</li>
-        </ul>
-<h2>License</h2>
-        <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-        
-        <h2>Contact</h2>
-        <p>If you have any questions or suggestions regarding Study Buddy, feel free to reach out to us at <a href="mailto:contact@studybuddy.com">contact@studybuddy.com</a>.</p>
+<h2>Screenshots</h2>
+        <p>Below are some screenshots of the Study Buddy project:</p>
+        <div>
+            <!-- Add your screenshots here -->
+<img src="![Screenshot (513)](https://github.com/prem-aksh/Study-Buddy/assets/110052269/8a9c14ea-ca7c-46e4-b0ef-e9abc8e492f2)" alt="Screenshot 2">
+            <!-- Add more screenshots as needed -->
+        </div>
+<h2>Contact</h2>
+        <p>If you have any questions or suggestions regarding Study Buddy, feel free to leave me a message at my <a href="www.linkedin.com/in/prem-kumar-123048243">Linkedin</a>.</p>
     </div>
 </body>
 </html>
